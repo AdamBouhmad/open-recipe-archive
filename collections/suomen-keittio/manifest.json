@@ -1,0 +1,15 @@
+{
+  "slug": "suomen-keittio",
+  "name": "Suomen Keittiö",
+  "description": "Finnish cooking from Finnish-American keittokirjat, 1914-1928.",
+  "culture": "finland",
+  "recipe_count": 2109,
+  "source_years": [
+    "1914",
+    "1928"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

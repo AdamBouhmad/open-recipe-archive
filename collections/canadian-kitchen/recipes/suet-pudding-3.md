@@ -1,0 +1,38 @@
+---
+title: "Suet Pudding"
+slug: "suet-pudding-3"
+collection: "canadian-kitchen"
+collection_name: "The Canadian Kitchen"
+culture: "canada"
+date: "1914-01-01"
+author: "Grace E. Denison"
+source_title: "The Canadian Family Cook Book"
+source_url: "https://archive.org/details/canadianfamilyco00deni_0"
+source_year: "1914"
+license: "public-domain"
+tags: ["canada", "canadian-kitchen"]
+---
+
+## Ingredients
+
+- 1/2 lb. chopped suet (fine)
+- 1/2 cup seeded raisins (chopped)
+- 3 tablespoonfuls moist sugar
+- 1 teaspoonful baking powder
+- 3 eggs (yolks of 3 and whites of 2 well beaten)
+- 3 tablespoonfuls flour
+- A little nutmeg
+- A little salt
+
+## Directions
+
+1. Boil for four hours or steam in basin.
+
+## Provenance
+
+- Collection: The Canadian Kitchen
+- Culture: canada
+- Source: [The Canadian Family Cook Book](https://archive.org/details/canadianfamilyco00deni_0)
+- Source author: Grace E. Denison
+- Source year: 1914
+- License: public-domain

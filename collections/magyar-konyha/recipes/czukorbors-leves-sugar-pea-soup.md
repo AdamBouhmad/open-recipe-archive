@@ -1,0 +1,42 @@
+---
+title: "Czukorborsóleves (Sugar Pea Soup)"
+slug: "czukorbors-leves-sugar-pea-soup"
+collection: "magyar-konyha"
+collection_name: "A Magyar Konyha"
+culture: "hungary"
+date: "1901-01-01"
+author: "Rézi néni"
+source_title: "Képes budapesti szakácskönyv"
+source_url: "https://archive.org/details/b28112982"
+source_year: "1901"
+license: "public-domain"
+tags: ["hungary", "magyar-konyha"]
+---
+
+## Ingredients
+
+- one liter sugar peas
+- ten dekagrams butter
+- salt
+- white pepper
+- one and a half liters beef broth
+- butter
+- glaze
+
+## Directions
+
+1. Clean and wash one liter of sugar peas
+2. Braise slowly with ten dekagrams butter, salt and white pepper
+3. Press through a sieve
+4. Slowly continue cooking with one and a half liters of beef broth until completely thickened so it runs off the spoon
+5. Skim the fat well from the soup during cooking
+6. Before serving heat for one minute with a lump of butter and a little glaze
+
+## Provenance
+
+- Collection: A Magyar Konyha
+- Culture: hungary
+- Source: [Képes budapesti szakácskönyv](https://archive.org/details/b28112982)
+- Source author: Rézi néni
+- Source year: 1901
+- License: public-domain

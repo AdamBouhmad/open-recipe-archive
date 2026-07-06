@@ -1,0 +1,14 @@
+{
+  "slug": "cucina-italiana",
+  "name": "La Cucina Italiana",
+  "description": "Pellegrino Artusi's La scienza in cucina e l'arte di mangiar bene (1891) — the book that unified Italian cooking.",
+  "culture": "italy",
+  "recipe_count": 829,
+  "source_years": [
+    "1891"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

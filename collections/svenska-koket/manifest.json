@@ -1,0 +1,14 @@
+{
+  "slug": "svenska-koket",
+  "name": "Svenska Köket",
+  "description": "Swedish home cooking from Hemmets kokbok and Iduns kokbok (both 1911).",
+  "culture": "sweden",
+  "recipe_count": 4304,
+  "source_years": [
+    "1911"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

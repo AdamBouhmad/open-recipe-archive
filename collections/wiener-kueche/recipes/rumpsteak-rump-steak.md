@@ -1,0 +1,43 @@
+---
+title: "Rumpsteak (Rump Steak)"
+slug: "rumpsteak-rump-steak"
+collection: "wiener-kueche"
+collection_name: "Die Wiener Küche"
+culture: "austria"
+date: "1914-01-01"
+author: ""
+source_title: "Neues Wiener Menu- und Kochbuch"
+source_url: "https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914"
+source_year: "1914"
+license: "public-domain"
+tags: ["austria", "wiener-kueche"]
+---
+
+## Ingredients
+
+- 2 pieces sirloin of 30 dkg
+- 6 dkg hot fat
+- flour
+- 1 piece butter
+- broth
+- whole potatoes or pancakes
+- spinach
+- cooked salad
+- salt
+- pepper
+
+## Directions
+
+1. Trim the meat of fat, bones and skin (these can also remain), wipe off, tap lightly.
+2. Just before roasting, salt and pepper, dip one side in flour, place this side in a shallow pan with 6 dkg hot fat, quickly sear both sides over high heat.
+3. Pour off the fat, heat 1 piece of butter in the pan, stir up the brown bits from the bottom, add broth, bring to a boil.
+4. Serve the rumpsteak on a long platter with whole potatoes or pancakes, spinach, cooked salad. The meat should be well-aged, otherwise it remains tough and stringy.
+
+## Provenance
+
+- Collection: Die Wiener Küche
+- Culture: austria
+- Source: [Neues Wiener Menu- und Kochbuch](https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914)
+- Source author: Unknown
+- Source year: 1914
+- License: public-domain

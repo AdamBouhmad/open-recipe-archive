@@ -1,0 +1,38 @@
+---
+title: "Cabbage, Beet and Horseradish Relish"
+slug: "cabbage-beet-and-horseradish-relish"
+collection: "jewish-kitchen"
+collection_name: "The Jewish Kitchen"
+culture: "jewish-diaspora"
+date: "1918-01-01"
+author: "Florence Kreisler Greenbaum"
+source_title: "The International Jewish Cook Book"
+source_url: "https://archive.org/details/cu31924003580952"
+source_year: "1918"
+license: "public-domain"
+tags: ["jewish-diaspora", "jewish-kitchen"]
+---
+
+## Ingredients
+
+- two quarts of boiled beets
+- two quarts of cabbage
+- one cup of grated horseradish
+- two cups of sugar
+- two teaspoons of salt
+- cold vinegar
+
+## Directions
+
+1. Take two quarts of boiled beets chopped, two quarts of cabbage chopped, one cup of grated horseradish
+2. Mix with two cups of sugar and two teaspoons of salt
+3. Add cold vinegar to cover, and place in gallon jar
+
+## Provenance
+
+- Collection: The Jewish Kitchen
+- Culture: jewish-diaspora
+- Source: [The International Jewish Cook Book](https://archive.org/details/cu31924003580952)
+- Source author: Florence Kreisler Greenbaum
+- Source year: 1918
+- License: public-domain

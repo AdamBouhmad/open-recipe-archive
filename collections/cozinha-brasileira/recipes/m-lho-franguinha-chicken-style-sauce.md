@@ -1,0 +1,33 @@
+---
+title: "Mólho à Franguinha (Chicken-style Sauce)"
+slug: "m-lho-franguinha-chicken-style-sauce"
+collection: "cozinha-brasileira"
+collection_name: "A Cozinha Brasileira"
+culture: "brazil"
+date: "1874-01-01"
+author: ""
+source_title: "Cozinheiro Nacional"
+source_url: "https://archive.org/details/cozinheiro-nacional"
+source_year: "1874"
+license: "public-domain"
+tags: ["brazil", "cozinha-brasileira"]
+---
+
+## Ingredients
+
+- ingredients as in fricassée sauce
+- some egg yolks
+
+## Directions
+
+1. Make as fricassée sauce
+2. Thicken the sauce with some egg yolks
+
+## Provenance
+
+- Collection: A Cozinha Brasileira
+- Culture: brazil
+- Source: [Cozinheiro Nacional](https://archive.org/details/cozinheiro-nacional)
+- Source author: Unknown
+- Source year: 1874
+- License: public-domain

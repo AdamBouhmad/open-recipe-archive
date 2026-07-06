@@ -1,0 +1,36 @@
+---
+title: "Boston Brown Bread"
+slug: "boston-brown-bread-7"
+collection: "filipino-kitchen"
+collection_name: "The Filipino Kitchen"
+culture: "philippines"
+date: "1919-01-01"
+author: ""
+source_title: "The Manila Cook Book"
+source_url: "https://archive.org/details/cu31924059639215"
+source_year: "1919"
+license: "public-domain"
+tags: ["philippines", "filipino-kitchen"]
+---
+
+## Ingredients
+
+- 1½ cups graham flour
+- ¾ cups corn meal
+- ¾ cup molasses
+- 1 pint sweet milk
+- 1½ teaspoons soda
+- 1 teaspoon salt
+
+## Directions
+
+1. Stir all together and steam in fireless three hours and a half, or bake in oven forty minutes.
+
+## Provenance
+
+- Collection: The Filipino Kitchen
+- Culture: philippines
+- Source: [The Manila Cook Book](https://archive.org/details/cu31924059639215)
+- Source author: Unknown
+- Source year: 1919
+- License: public-domain

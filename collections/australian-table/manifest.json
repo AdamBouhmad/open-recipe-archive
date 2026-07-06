@@ -1,0 +1,15 @@
+{
+  "slug": "australian-table",
+  "name": "The Australian Table",
+  "description": "Australian cookery 1864-1930, from the goldfields era to Federation home cooking.",
+  "culture": "australia",
+  "recipe_count": 1010,
+  "source_years": [
+    "1864",
+    "1893"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

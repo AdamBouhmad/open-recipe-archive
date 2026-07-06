@@ -1,0 +1,14 @@
+{
+  "slug": "west-indies",
+  "name": "The West Indies Kitchen",
+  "description": "The Nabob's Cookery Book (1900) — East and West Indian recipes, shared colonial corpus labeled honestly.",
+  "culture": "west-indies",
+  "recipe_count": 51,
+  "source_years": [
+    "1900"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

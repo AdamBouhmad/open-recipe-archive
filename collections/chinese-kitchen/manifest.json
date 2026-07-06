@@ -1,0 +1,15 @@
+{
+  "slug": "chinese-kitchen",
+  "name": "The Chinese Kitchen",
+  "description": "Early Chinese-American cookbooks: Shiu Wong Chan (1917) and Jessie Louise Nolton (1911).",
+  "culture": "china",
+  "recipe_count": 181,
+  "source_years": [
+    "1911",
+    "1917"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

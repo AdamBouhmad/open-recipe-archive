@@ -1,0 +1,37 @@
+---
+title: "Graham Flour Pudding"
+slug: "graham-flour-pudding"
+collection: "canadian-kitchen"
+collection_name: "The Canadian Kitchen"
+culture: "canada"
+date: "1914-01-01"
+author: "Grace E. Denison"
+source_title: "The Canadian Family Cook Book"
+source_url: "https://archive.org/details/canadianfamilyco00deni_0"
+source_year: "1914"
+license: "public-domain"
+tags: ["canada", "canadian-kitchen"]
+---
+
+## Ingredients
+
+- Two cups graham flour
+- one cup sweet milk
+- one cup of molasses
+- one cup of currants or raisins
+- one teaspoonful baking powder
+- one teaspoonful of salt
+
+## Directions
+
+1. Put in a shape and boil or steam for three hours.
+2. Serve with foam sauce.
+
+## Provenance
+
+- Collection: The Canadian Kitchen
+- Culture: canada
+- Source: [The Canadian Family Cook Book](https://archive.org/details/canadianfamilyco00deni_0)
+- Source author: Grace E. Denison
+- Source year: 1914
+- License: public-domain

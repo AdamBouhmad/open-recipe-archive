@@ -1,0 +1,14 @@
+{
+  "slug": "norske-kjokken",
+  "name": "Det Norske Kjøkken",
+  "description": "Skandinavisk-amerikansk kogebog (1884) — Dano-Norwegian immigrant cooking, shared Scandinavian heritage labeled honestly.",
+  "culture": "norway",
+  "recipe_count": 322,
+  "source_years": [
+    "1884"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

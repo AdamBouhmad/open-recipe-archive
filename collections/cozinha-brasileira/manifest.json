@@ -1,0 +1,14 @@
+{
+  "slug": "cozinha-brasileira",
+  "name": "A Cozinha Brasileira",
+  "description": "O Cozinheiro Nacional (c. 1874) — the classic collection of Brazilian and European recipes.",
+  "culture": "brazil",
+  "recipe_count": 1792,
+  "source_years": [
+    "1874"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

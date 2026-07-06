@@ -1,0 +1,38 @@
+---
+title: "Cold Cream"
+slug: "cold-cream"
+collection: "ye-old-american"
+collection_name: "Ye Old American Recipe Book"
+culture: "american-historical"
+date: "1851-01-01"
+author: "Eliza Leslie"
+source_title: "Miss Leslie's Complete Cookery"
+source_url: "https://www.gutenberg.org/ebooks/60025"
+source_year: "1851"
+license: "public-domain"
+tags: ["american-historical", "ye-old-american"]
+---
+
+## Ingredients
+
+- a shilling cake of white wax
+- an ounce of oil of sweet almonds
+- two large table-spoonfuls of lard
+- an ounce of orange-flower or rose-water
+
+## Directions
+
+1. Cut up a shilling cake of white wax
+2. Put it into a clean sauce-pan with an ounce of oil of sweet almonds, and two large table-spoonfuls of lard
+3. Boil and stir it well
+4. When you take it off the fire, beat in an ounce of orange-flower or rose-water
+5. Put it up in gallipots with covers
+
+## Provenance
+
+- Collection: Ye Old American Recipe Book
+- Culture: american-historical
+- Source: [Miss Leslie's Complete Cookery](https://www.gutenberg.org/ebooks/60025)
+- Source author: Eliza Leslie
+- Source year: 1851
+- License: public-domain

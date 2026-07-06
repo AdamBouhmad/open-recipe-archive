@@ -1,0 +1,40 @@
+---
+title: "Brown Sauce"
+slug: "brown-sauce-5"
+collection: "suomen-keittio"
+collection_name: "Suomen Keittiö"
+culture: "finland"
+date: "1914-01-01"
+author: ""
+source_title: "Suomalais-amerikalainen keittokirja"
+source_url: "https://archive.org/details/suomalaisamerika00wall"
+source_year: "1914"
+license: "public-domain"
+tags: ["finland", "suomen-keittio"]
+---
+
+## Ingredients
+
+- 2 tablespoonfuls of flour
+- 2 tablespoonfuls of butter
+- 2 slices of carrot
+- 1 slice of onion
+- 8 grains of pepper
+- 2 cupfuls of brown stock
+- 1 bay leaf
+- 1 sprig of parsley
+
+## Directions
+
+1. Brown carrot and onion in butter, add flour, brown stock and seasonings.
+2. Let boil.
+3. Strain and season.
+
+## Provenance
+
+- Collection: Suomen Keittiö
+- Culture: finland
+- Source: [Suomalais-amerikalainen keittokirja](https://archive.org/details/suomalaisamerika00wall)
+- Source author: Unknown
+- Source year: 1914
+- License: public-domain

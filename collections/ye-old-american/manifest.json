@@ -1,0 +1,19 @@
+{
+  "slug": "ye-old-american",
+  "name": "Ye Old American Recipe Book",
+  "description": "Recipes from American cookery books published 1796-1896, all public domain.",
+  "culture": "american-historical",
+  "recipe_count": 5605,
+  "source_years": [
+    "1796",
+    "1824",
+    "1851",
+    "1871",
+    "1887",
+    "1896"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

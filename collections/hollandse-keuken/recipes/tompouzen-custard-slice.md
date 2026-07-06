@@ -1,0 +1,35 @@
+---
+title: "Tompouzen (Custard Slice)"
+slug: "tompouzen-custard-slice"
+collection: "hollandse-keuken"
+collection_name: "De Hollandse Keuken"
+culture: "netherlands"
+date: "1910-01-01"
+author: "C.J. Wannée"
+source_title: "Kookboek van de Amsterdamse Huishoudschool"
+source_url: "https://archive.org/details/bwb_Y0-BXP-037"
+source_year: "1910"
+license: "public-domain"
+tags: ["netherlands", "hollandse-keuken"]
+---
+
+## Ingredients
+
+- 100 g hard butter or margarine
+- 100 g flour
+- some water
+- salt
+- 2.5 dl custard cream (recipe 816) for filling
+
+## Directions
+
+1. Prepare puff pastry in the usual way (recipe 846). Roll it out one last time into an oblong, thin sheet and divide it into two equal pieces. Place them on a baking sheet, make small cuts here and there to prevent them from rising too much. Bake them in a hot oven until light brown and cooked (10-15 minutes). Remove from sheet, let cool. Brush one layer with custard cream, pour the other with boiling or egg white glaze with rum flavor and place it on the custard cream. Cut the cake into equal pieces, approximately 12 cm long and 5 cm wide.
+
+## Provenance
+
+- Collection: De Hollandse Keuken
+- Culture: netherlands
+- Source: [Kookboek van de Amsterdamse Huishoudschool](https://archive.org/details/bwb_Y0-BXP-037)
+- Source author: C.J. Wannée
+- Source year: 1910
+- License: public-domain

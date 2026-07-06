@@ -1,0 +1,40 @@
+---
+title: "Cinnamon Ice Cream (Skořicová zmrzlina)"
+slug: "cinnamon-ice-cream-sko-icov-zmrzlina"
+collection: "ceska-kuchyne"
+collection_name: "Česká Kuchyně"
+culture: "czechia"
+date: "1883-01-01"
+author: "Marie Dumková"
+source_title: "Česká kuchařka"
+source_url: "https://archive.org/details/ceska_kucharka-dumkova"
+source_year: "1883"
+license: "public-domain"
+tags: ["czechia", "ceska-kuchyne"]
+---
+
+## Ingredients
+
+- Four eggs
+- One liter of sweet sour cream
+- Quarter kilo of finely crushed sugar
+- Two dekagrams of cinnamon
+
+## Directions
+
+1. Beat four eggs into a bowl
+2. Pour in one liter of sweet sour cream
+3. Add a quarter kilo of finely crushed sugar
+4. Add two dekagrams of cinnamon
+5. Mix, beat and constantly heat
+6. Heat several times and allow to cool repeatedly
+7. Proceed as with other ice cream
+
+## Provenance
+
+- Collection: Česká Kuchyně
+- Culture: czechia
+- Source: [Česká kuchařka](https://archive.org/details/ceska_kucharka-dumkova)
+- Source author: Marie Dumková
+- Source year: 1883
+- License: public-domain

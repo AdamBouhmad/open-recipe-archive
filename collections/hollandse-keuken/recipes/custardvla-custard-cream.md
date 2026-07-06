@@ -1,0 +1,36 @@
+---
+title: "Custardvla (Custard Cream)"
+slug: "custardvla-custard-cream"
+collection: "hollandse-keuken"
+collection_name: "De Hollandse Keuken"
+culture: "netherlands"
+date: "1910-01-01"
+author: "C.J. Wannée"
+source_title: "Kookboek van de Amsterdamse Huishoudschool"
+source_url: "https://archive.org/details/bwb_Y0-BXP-037"
+source_year: "1910"
+license: "public-domain"
+tags: ["netherlands", "hollandse-keuken"]
+---
+
+## Ingredients
+
+- 3/4 l milk
+- 50 g sugar
+- 30 g custard
+
+## Directions
+
+1. Mix the custard with the sugar and combine this with a portion of the cold milk into a smooth paste without lumps
+2. Bring the rest of the milk to a boil and pour the smooth paste, stirring, into the almost boiling liquid
+3. Let the custard, stirring, simmer for two minutes on gentle heat
+4. Let it cool, stirring occasionally, to prevent a skin from forming
+
+## Provenance
+
+- Collection: De Hollandse Keuken
+- Culture: netherlands
+- Source: [Kookboek van de Amsterdamse Huishoudschool](https://archive.org/details/bwb_Y0-BXP-037)
+- Source author: C.J. Wannée
+- Source year: 1910
+- License: public-domain

@@ -1,0 +1,42 @@
+---
+title: "Albóndigas de Cerdo en Escabeche (Pork Meatballs in Escabeche)"
+slug: "alb-ndigas-de-cerdo-en-escabeche-pork-meatballs-in-escabeche"
+collection: "cocina-mexicana"
+collection_name: "La Cocina Mexicana"
+culture: "mexico"
+date: "1845-01-01"
+author: "Mariano Galván Rivera"
+source_title: "Diccionario de cocina, ó El nuevo cocinero mexicano"
+source_url: "https://archive.org/details/bub_gb_NdQqAAAAYAAJ"
+source_year: "1845"
+license: "public-domain"
+tags: ["mexico", "cocina-mexicana"]
+---
+
+## Ingredients
+
+- pork meat
+- salt
+- egg
+- capers
+- raisins
+- ham
+- parsley
+- herbabuena
+
+## Directions
+
+1. Grind the pork meat and season with salt
+2. Mix with egg
+3. Form small balls, filling them with capers, raisins, ham and other substances
+4. Cook in water with parsley, herbabuena and salt
+5. Once cooked, braise in tomato broth, clemole or light stew
+
+## Provenance
+
+- Collection: La Cocina Mexicana
+- Culture: mexico
+- Source: [Diccionario de cocina, ó El nuevo cocinero mexicano](https://archive.org/details/bub_gb_NdQqAAAAYAAJ)
+- Source author: Mariano Galván Rivera
+- Source year: 1845
+- License: public-domain

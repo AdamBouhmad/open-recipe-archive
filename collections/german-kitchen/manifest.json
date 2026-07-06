@@ -1,0 +1,15 @@
+{
+  "slug": "german-kitchen",
+  "name": "Die Deutsche Küche",
+  "description": "German home cooking from Volks-Kochbuch (Hedwig Heyl) and the Süddeutsches Kochbuch.",
+  "culture": "germany",
+  "recipe_count": 1134,
+  "source_years": [
+    "1858",
+    "1905"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

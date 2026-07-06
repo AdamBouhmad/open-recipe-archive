@@ -1,0 +1,16 @@
+{
+  "slug": "danske-kokken",
+  "name": "Det Danske Køkken",
+  "description": "Danish cookery from Frøken Jensen (1921) and illustrated household cookbooks, 1884-1899.",
+  "culture": "denmark",
+  "recipe_count": 2613,
+  "source_years": [
+    "1884",
+    "1899",
+    "1921"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

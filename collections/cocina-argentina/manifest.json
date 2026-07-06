@@ -1,0 +1,14 @@
+{
+  "slug": "cocina-argentina",
+  "name": "La Cocina Argentina",
+  "description": "Juana Manuela Gorriti's Cocina Ecléctica (1890) — recipes gathered from women across Argentina and South America.",
+  "culture": "argentina",
+  "recipe_count": 251,
+  "source_years": [
+    "1890"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

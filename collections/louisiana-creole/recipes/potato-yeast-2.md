@@ -1,0 +1,40 @@
+---
+title: "Potato Yeast"
+slug: "potato-yeast-2"
+collection: "louisiana-creole"
+collection_name: "Louisiana Creole Kitchen"
+culture: "us-louisiana"
+date: "1885-01-01"
+author: "Christian Woman's Exchange"
+source_title: "The Creole Cookery Book"
+source_url: "https://archive.org/details/creolecookerybo00unkngoog"
+source_year: "1885"
+license: "public-domain"
+tags: ["us-louisiana", "louisiana-creole"]
+---
+
+## Ingredients
+
+- 1 large Irish potato
+- flour
+- hop tea
+- 1 gill of good yeast
+
+## Directions
+
+1. Peel and boil soft a large Irish potato
+2. Rub it through a sieve
+3. Add an equal quantity of flour
+4. Make it liquid with hop tea
+5. When a little warmer than new milk, add a gill of good yeast
+6. Stir it well
+7. Keep it closely covered in a small pitcher
+
+## Provenance
+
+- Collection: Louisiana Creole Kitchen
+- Culture: us-louisiana
+- Source: [The Creole Cookery Book](https://archive.org/details/creolecookerybo00unkngoog)
+- Source author: Christian Woman's Exchange
+- Source year: 1885
+- License: public-domain

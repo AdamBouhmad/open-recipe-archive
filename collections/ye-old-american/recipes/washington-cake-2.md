@@ -1,0 +1,43 @@
+---
+title: "Washington Cake"
+slug: "washington-cake-2"
+collection: "ye-old-american"
+collection_name: "Ye Old American Recipe Book"
+culture: "american-historical"
+date: "1871-01-01"
+author: "Marion Harland"
+source_title: "Common Sense in the Household"
+source_url: "https://www.gutenberg.org/ebooks/48804"
+source_year: "1871"
+license: "public-domain"
+tags: ["american-historical", "ye-old-american"]
+---
+
+## Ingredients
+
+- 3 cups sugar
+- 2 cups butter
+- 5 eggs
+- 1 cup milk
+- 4 cups flour
+- 2 teaspoonfuls cream-tartar
+- 1 teaspoonful soda
+- ½ lb. currants well washed and dredged
+- ¼ lb. raisins seeded and chopped fine, then floured
+- A handful of citron sliced fine
+- Cinnamon and nutmeg to taste
+
+## Directions
+
+1. Mix as usual
+2. Stir in at the last the currants, raisins, citron, cinnamon and nutmeg
+3. Bake, keeping heat steady as fruit-cake takes longer to bake than plain
+
+## Provenance
+
+- Collection: Ye Old American Recipe Book
+- Culture: american-historical
+- Source: [Common Sense in the Household](https://www.gutenberg.org/ebooks/48804)
+- Source author: Marion Harland
+- Source year: 1871
+- License: public-domain

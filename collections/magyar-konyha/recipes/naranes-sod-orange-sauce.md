@@ -1,0 +1,36 @@
+---
+title: "Naranes-sodó (Orange Sauce)"
+slug: "naranes-sod-orange-sauce"
+collection: "magyar-konyha"
+collection_name: "A Magyar Konyha"
+culture: "hungary"
+date: "1901-01-01"
+author: "Rézi néni"
+source_title: "Képes budapesti szakácskönyv"
+source_url: "https://archive.org/details/b28112982"
+source_year: "1901"
+license: "public-domain"
+tags: ["hungary", "magyar-konyha"]
+---
+
+## Ingredients
+
+- 0.5 liter cream
+- orange zest
+- sugar
+- 5 egg yolks
+
+## Directions
+
+1. Bring 0.5 liter cream to a boil with orange zest and sugar
+2. Pour over 5 egg yolks while continuously stirring
+3. Bring to a boil again
+
+## Provenance
+
+- Collection: A Magyar Konyha
+- Culture: hungary
+- Source: [Képes budapesti szakácskönyv](https://archive.org/details/b28112982)
+- Source author: Rézi néni
+- Source year: 1901
+- License: public-domain

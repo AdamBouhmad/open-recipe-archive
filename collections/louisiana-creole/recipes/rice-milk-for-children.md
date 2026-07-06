@@ -1,0 +1,34 @@
+---
+title: "Rice-Milk for Children"
+slug: "rice-milk-for-children"
+collection: "louisiana-creole"
+collection_name: "Louisiana Creole Kitchen"
+culture: "us-louisiana"
+date: "1885-01-01"
+author: "Lafcadio Hearn"
+source_title: "La Cuisine Creole"
+source_url: "https://archive.org/details/lacuisinecreolec00hear"
+source_year: "1885"
+license: "public-domain"
+tags: ["us-louisiana", "louisiana-creole"]
+---
+
+## Ingredients
+
+- milk
+- rice
+
+## Directions
+
+1. To every quart of milk, allow two ounces of rice
+2. Wash the rice and put it with the milk in a close-covered stewpan
+3. Set it over a slow fire, and let it simmer gently for one hour and a half
+
+## Provenance
+
+- Collection: Louisiana Creole Kitchen
+- Culture: us-louisiana
+- Source: [La Cuisine Creole](https://archive.org/details/lacuisinecreolec00hear)
+- Source author: Lafcadio Hearn
+- Source year: 1885
+- License: public-domain

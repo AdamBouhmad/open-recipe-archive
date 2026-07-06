@@ -1,0 +1,40 @@
+---
+title: "Betsy Pudding"
+slug: "betsy-pudding"
+collection: "canadian-kitchen"
+collection_name: "The Canadian Kitchen"
+culture: "canada"
+date: "1914-01-01"
+author: "Grace E. Denison"
+source_title: "The Canadian Family Cook Book"
+source_url: "https://archive.org/details/canadianfamilyco00deni_0"
+source_year: "1914"
+license: "public-domain"
+tags: ["canada", "canadian-kitchen"]
+---
+
+## Ingredients
+
+- One pint of milk
+- Three ounces breadcrumbs
+- One egg
+- One tablespoonful of white sugar
+- Jam
+- A little nutmeg
+
+## Directions
+
+1. Spread a good layer of jam in the bottom of a pie-dish.
+2. Pour the milk nearly boiling on to the breadcrumbs.
+3. When cool stir in the egg, which should be beaten.
+4. Pour this gently on the preserve.
+5. Grate a little nutmeg over the top, and bake for half an hour.
+
+## Provenance
+
+- Collection: The Canadian Kitchen
+- Culture: canada
+- Source: [The Canadian Family Cook Book](https://archive.org/details/canadianfamilyco00deni_0)
+- Source author: Grace E. Denison
+- Source year: 1914
+- License: public-domain

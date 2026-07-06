@@ -1,0 +1,14 @@
+{
+  "slug": "cocina-chilena",
+  "name": "La Cocina Chilena",
+  "description": "Novísimo manual del cocinero práctico chileno (1896).",
+  "culture": "chile",
+  "recipe_count": 689,
+  "source_years": [
+    "1896"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

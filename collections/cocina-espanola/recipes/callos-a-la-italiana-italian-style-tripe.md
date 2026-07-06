@@ -1,0 +1,42 @@
+---
+title: "Callos a la Italiana (Italian-Style Tripe)"
+slug: "callos-a-la-italiana-italian-style-tripe"
+collection: "cocina-espanola"
+collection_name: "La Cocina Española"
+culture: "spain"
+date: "1894-01-01"
+author: "Ángel Muro"
+source_title: "El Practicón: tratado completo de cocina"
+source_url: "https://archive.org/details/elpracticntrat00muro"
+source_year: "1894"
+license: "public-domain"
+tags: ["spain", "cocina-espanola"]
+---
+
+## Ingredients
+
+- tripe, prepared and cleaned
+- onions
+- parsley
+- carrots
+- bay leaf
+- basil
+- cloves
+- salt
+- paprika
+- water
+
+## Directions
+
+1. After being prepared and cleaned, cook with onions, parsley, carrots, bay leaf, basil, cloves, salt, paprika, and a sufficient quantity of water
+2. Remove and drain
+3. Cut into large pieces about four fingers in size, which should then be breaded
+
+## Provenance
+
+- Collection: La Cocina Española
+- Culture: spain
+- Source: [El Practicón: tratado completo de cocina](https://archive.org/details/elpracticntrat00muro)
+- Source author: Ángel Muro
+- Source year: 1894
+- License: public-domain

@@ -1,0 +1,52 @@
+---
+title: "Ajem Pilaw"
+slug: "ajem-pilaw"
+collection: "ottoman-turkish"
+collection_name: "The Ottoman Turkish Kitchen"
+culture: "turkey"
+date: "1864-01-01"
+author: "Turabi Efendi"
+source_title: "A Turkish Cookery Book"
+source_url: "https://archive.org/details/b21527830"
+source_year: "1864"
+license: "public-domain"
+tags: ["turkey", "ottoman-turkish"]
+---
+
+## Ingredients
+
+- three pounds of nice mutton
+- three or four ounces of fresh butter
+- three or four finely chopped onions
+- one or two handfuls of pistachios
+- one or two handfuls of currants
+- a teaspoonful of mixed spice
+- two pounds of the best rice, well washed
+- two quarts of cold water
+- salt
+- flour paste
+
+## Directions
+
+1. Cut three pounds of nice mutton in pieces about the size of walnuts
+2. Place them in a stewpan
+3. If the meat is not fat, add three or four ounces of fresh butter
+4. Put the pan on a charcoal fire, and let the meat stew till quite brown, but not burnt, and the fat is as clear as oil
+5. Take out the pieces of meat with a hand strainer, and put them in a basin
+6. Put three or four finely chopped onions in the remaining fat, and fry them a nice brown
+7. Lay the pieces of meat over
+8. Add one or two handfuls of pistachios, the same of currants, a teaspoonful of mixed spice, two pounds of the best rice, well washed
+9. Pour gently two quarts of cold water over
+10. Add sufficient salt
+11. Put the cover over the pan, and cement round it with flour paste, so as to keep the steam in
+12. Put the pan on the fire, and let it boil gently until the whole of the liquid is absorbed
+13. Take off the cover, and turn the contents of the pan carefully on to a hot dish, and serve
+
+## Provenance
+
+- Collection: The Ottoman Turkish Kitchen
+- Culture: turkey
+- Source: [A Turkish Cookery Book](https://archive.org/details/b21527830)
+- Source author: Turabi Efendi
+- Source year: 1864
+- License: public-domain

@@ -1,0 +1,37 @@
+---
+title: "Caramel Junket"
+slug: "caramel-junket"
+collection: "ye-old-american"
+collection_name: "Ye Old American Recipe Book"
+culture: "american-historical"
+date: "1896-01-01"
+author: "Fannie Merritt Farmer"
+source_title: "The Boston Cooking-School Cook Book"
+source_url: "https://www.gutenberg.org/ebooks/65061"
+source_year: "1896"
+license: "public-domain"
+tags: ["american-historical", "ye-old-american"]
+---
+
+## Ingredients
+
+- 2 cups milk
+- ⅓ cup sugar
+- ⅓ cup boiling water
+- 1 junket tablet
+- Few grains salt
+- 1 teaspoon vanilla
+- Whipped cream, sweetened and flavored
+
+## Directions
+
+1. Make caramel with sugar and boiling water, add to milk with junket tablet and salt, flavor with vanilla, and serve with sweetened and flavored whipped cream.
+
+## Provenance
+
+- Collection: Ye Old American Recipe Book
+- Culture: american-historical
+- Source: [The Boston Cooking-School Cook Book](https://www.gutenberg.org/ebooks/65061)
+- Source author: Fannie Merritt Farmer
+- Source year: 1896
+- License: public-domain

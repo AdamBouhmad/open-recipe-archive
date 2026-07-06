@@ -1,0 +1,33 @@
+---
+title: "Vino de Duraznos (Peach Wine)"
+slug: "vino-de-duraznos-peach-wine"
+collection: "cocina-mexicana"
+collection_name: "La Cocina Mexicana"
+culture: "mexico"
+date: "1890-01-01"
+author: ""
+source_title: "La cocinera poblana"
+source_url: "https://archive.org/details/lacocinerapobla00unkngoog"
+source_year: "1890"
+license: "public-domain"
+tags: ["mexico", "cocina-mexicana"]
+---
+
+## Ingredients
+
+- Peaches
+- Spirit of wine
+- White powdered sugar
+
+## Directions
+
+1. Prepare as with Vino de Chabacano, increasing the quantity of sugar by one-third
+
+## Provenance
+
+- Collection: La Cocina Mexicana
+- Culture: mexico
+- Source: [La cocinera poblana](https://archive.org/details/lacocinerapobla00unkngoog)
+- Source author: Unknown
+- Source year: 1890
+- License: public-domain

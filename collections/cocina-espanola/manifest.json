@@ -1,0 +1,15 @@
+{
+  "slug": "cocina-espanola",
+  "name": "La Cocina Española",
+  "description": "Spanish cookery from El Practicón (1894) and La mesa moderna (1888).",
+  "culture": "spain",
+  "recipe_count": 928,
+  "source_years": [
+    "1888",
+    "1894"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

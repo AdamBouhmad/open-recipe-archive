@@ -1,0 +1,14 @@
+{
+  "slug": "kuchnia-polska",
+  "name": "Kuchnia Polska",
+  "description": "Polish cooking from Kuchnia polsko-amerykańska (1917).",
+  "culture": "poland",
+  "recipe_count": 990,
+  "source_years": [
+    "1917"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

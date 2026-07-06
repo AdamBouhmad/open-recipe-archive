@@ -1,0 +1,41 @@
+---
+title: "Fin Sockerkaka (Fine Sugar Cake)"
+slug: "fin-sockerkaka-fine-sugar-cake-2"
+collection: "svenska-koket"
+collection_name: "Svenska Köket"
+culture: "sweden"
+date: "1911-01-01"
+author: "Elisabeth Östman"
+source_title: "Iduns kokbok"
+source_url: "https://archive.org/details/arkivkopia.se-runeberg-idunskok"
+source_year: "1911"
+license: "public-domain"
+tags: ["sweden", "svenska-koket"]
+---
+
+## Ingredients
+
+- 210 gr. powdered sugar
+- 3 whole eggs
+- 3 egg yolks
+- zest of 1/2 lemon or 10 bitter almonds
+- 55 gr. wheat flour
+- 50 gr. potato flour
+- 3 egg whites
+- 15 gr. butter for the pan
+- 3 msk. crushed rusks for the pan
+
+## Directions
+
+1. Sift the sugar and beat with the whole eggs and egg yolks for about 1 hour, then add the finely grated lemon zest or the blanched and ground almonds, the sifted wheat flour and potato flour and finally fold in the egg whites beaten to stiff peaks.
+2. Pour the batter into a buttered and rusk-breadcrumbed ring pan or frying pan and bake in a not too hot oven for about 40 minutes.
+3. The cake can advantageously be split, filled with some cream or fruit, glazed, decorated with royal icing and garnished with fruit.
+
+## Provenance
+
+- Collection: Svenska Köket
+- Culture: sweden
+- Source: [Iduns kokbok](https://archive.org/details/arkivkopia.se-runeberg-idunskok)
+- Source author: Elisabeth Östman
+- Source year: 1911
+- License: public-domain

@@ -1,0 +1,126 @@
+[
+  {
+    "country": "american-historical",
+    "recipe_count": 5605
+  },
+  {
+    "country": "argentina",
+    "recipe_count": 251
+  },
+  {
+    "country": "australia",
+    "recipe_count": 1010
+  },
+  {
+    "country": "austria",
+    "recipe_count": 3072
+  },
+  {
+    "country": "brazil",
+    "recipe_count": 1792
+  },
+  {
+    "country": "canada",
+    "recipe_count": 3201
+  },
+  {
+    "country": "chile",
+    "recipe_count": 689
+  },
+  {
+    "country": "china",
+    "recipe_count": 181
+  },
+  {
+    "country": "czechia",
+    "recipe_count": 3076
+  },
+  {
+    "country": "denmark",
+    "recipe_count": 2613
+  },
+  {
+    "country": "finland",
+    "recipe_count": 2109
+  },
+  {
+    "country": "france",
+    "recipe_count": 1559
+  },
+  {
+    "country": "germany",
+    "recipe_count": 1134
+  },
+  {
+    "country": "guatemala",
+    "recipe_count": 1111
+  },
+  {
+    "country": "hungary",
+    "recipe_count": 1240
+  },
+  {
+    "country": "india",
+    "recipe_count": 1359
+  },
+  {
+    "country": "italy",
+    "recipe_count": 829
+  },
+  {
+    "country": "japan",
+    "recipe_count": 109
+  },
+  {
+    "country": "jewish-diaspora",
+    "recipe_count": 2382
+  },
+  {
+    "country": "mexico",
+    "recipe_count": 6476
+  },
+  {
+    "country": "netherlands",
+    "recipe_count": 1705
+  },
+  {
+    "country": "norway",
+    "recipe_count": 322
+  },
+  {
+    "country": "philippines",
+    "recipe_count": 511
+  },
+  {
+    "country": "poland",
+    "recipe_count": 990
+  },
+  {
+    "country": "portugal",
+    "recipe_count": 1152
+  },
+  {
+    "country": "spain",
+    "recipe_count": 928
+  },
+  {
+    "country": "sweden",
+    "recipe_count": 4304
+  },
+  {
+    "country": "turkey",
+    "recipe_count": 442
+  },
+  {
+    "country": "united-kingdom",
+    "recipe_count": 1382
+  },
+  {
+    "country": "us-louisiana",
+    "recipe_count": 3258
+  },
+  {
+    "country": "west-indies",
+    "recipe_count": 51
+  }
+]

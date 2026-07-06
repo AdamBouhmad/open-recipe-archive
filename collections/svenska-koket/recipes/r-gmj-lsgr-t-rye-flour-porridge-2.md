@@ -1,0 +1,34 @@
+---
+title: "Rägmjölsgröt (Rye Flour Porridge)"
+slug: "r-gmj-lsgr-t-rye-flour-porridge-2"
+collection: "svenska-koket"
+collection_name: "Svenska Köket"
+culture: "sweden"
+date: "1911-01-01"
+author: "Elisabeth Östman"
+source_title: "Iduns kokbok"
+source_url: "https://archive.org/details/arkivkopia.se-runeberg-idunskok"
+source_year: "1911"
+license: "public-domain"
+tags: ["sweden", "svenska-koket"]
+---
+
+## Ingredients
+
+- 1.3 lit. water
+- 4 dcl. ground rye flour (2 hg.)
+- 1 msk. salt (15 gr.)
+
+## Directions
+
+1. Bring the water to a boil with the salt, whisk in the flour vigorously during boiling, and then let the porridge simmer slowly with a lid for about 1 hour.
+2. Taste with more salt if desired, and serve with milk.
+
+## Provenance
+
+- Collection: Svenska Köket
+- Culture: sweden
+- Source: [Iduns kokbok](https://archive.org/details/arkivkopia.se-runeberg-idunskok)
+- Source author: Elisabeth Östman
+- Source year: 1911
+- License: public-domain

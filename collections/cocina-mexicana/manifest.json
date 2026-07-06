@@ -1,0 +1,15 @@
+{
+  "slug": "cocina-mexicana",
+  "name": "La Cocina Mexicana",
+  "description": "Mexican cookery from the Diccionario de cocina (1845) and La cocinera poblana (1890).",
+  "culture": "mexico",
+  "recipe_count": 6476,
+  "source_years": [
+    "1845",
+    "1890"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

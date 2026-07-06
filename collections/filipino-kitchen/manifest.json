@@ -1,0 +1,14 @@
+{
+  "slug": "filipino-kitchen",
+  "name": "The Filipino Kitchen",
+  "description": "The Manila Cook Book (1919), American-era Manila home cooking.",
+  "culture": "philippines",
+  "recipe_count": 511,
+  "source_years": [
+    "1919"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

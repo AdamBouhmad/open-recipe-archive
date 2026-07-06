@@ -1,0 +1,44 @@
+---
+title: "Stuvade bondbönor (Braised Country Beans)"
+slug: "stuvade-bondb-nor-braised-country-beans"
+collection: "svenska-koket"
+collection_name: "Svenska Köket"
+culture: "sweden"
+date: "1911-01-01"
+author: "Fackskolan för huslig ekonomi"
+source_title: "Hemmets kokbok"
+source_url: "https://archive.org/details/hemmetskokbok_1911"
+source_year: "1911"
+license: "public-domain"
+tags: ["sweden", "svenska-koket"]
+---
+
+## Ingredients
+
+- 1 liter split beans
+- 2 carrots
+- 2 liters water
+- salt
+- 1.5 tablespoons butter
+- 3 tablespoons flour
+- 3 cups milk
+- salt
+- sugar
+- 2 tablespoons chopped parsley
+
+## Directions
+
+1. Split the beans and remove the sprouts.
+2. Place in boiling, salted water, and when cooked, add the cleaned, scraped carrots cut into thin slices.
+3. When everything is cooked, pour into a colander to drain.
+4. Fry together the butter and flour, thin with 2 cups of the bean stock and the milk, and let the sauce simmer for 10 minutes.
+5. Add the beans and carrots, stir in the chopped parsley, and season the stew.
+
+## Provenance
+
+- Collection: Svenska Köket
+- Culture: sweden
+- Source: [Hemmets kokbok](https://archive.org/details/hemmetskokbok_1911)
+- Source author: Fackskolan för huslig ekonomi
+- Source year: 1911
+- License: public-domain

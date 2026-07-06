@@ -1,0 +1,16 @@
+{
+  "slug": "indian-kitchen",
+  "name": "The Indian Kitchen",
+  "description": "Recipes from British-India cookbooks, 1880-1900 — a corpus shared across the subcontinent (India, Pakistan, Bangladesh, Sri Lanka).",
+  "culture": "india",
+  "recipe_count": 1359,
+  "source_years": [
+    "1880",
+    "1885",
+    "1900"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

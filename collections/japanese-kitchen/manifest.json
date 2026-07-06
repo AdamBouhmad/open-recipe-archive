@@ -1,0 +1,14 @@
+{
+  "slug": "japanese-kitchen",
+  "name": "The Japanese Kitchen",
+  "description": "The Chinese-Japanese Cook Book (1914) — one of the first Japanese cookbooks in English. Shared Chinese-Japanese heritage, labeled honestly.",
+  "culture": "japan",
+  "recipe_count": 109,
+  "source_years": [
+    "1914"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

@@ -1,0 +1,40 @@
+---
+title: "Quiabos Guisados com Carne (Okra Stewed with Meat)"
+slug: "quiabos-guisados-com-carne-okra-stewed-with-meat"
+collection: "cozinha-brasileira"
+collection_name: "A Cozinha Brasileira"
+culture: "brazil"
+date: "1874-01-01"
+author: ""
+source_title: "Cozinheiro Nacional"
+source_url: "https://archive.org/details/cozinheiro-nacional"
+source_year: "1874"
+license: "public-domain"
+tags: ["brazil", "cozinha-brasileira"]
+---
+
+## Ingredients
+
+- okras
+- fat
+- chopped meat
+- salt
+- comaré peppers
+- water
+
+## Directions
+
+1. Cut okras into rounds
+2. Sauté in hot fat
+3. Add chopped meat, salt, comaré peppers, and a little water
+4. Let boil
+5. Serve with angú
+
+## Provenance
+
+- Collection: A Cozinha Brasileira
+- Culture: brazil
+- Source: [Cozinheiro Nacional](https://archive.org/details/cozinheiro-nacional)
+- Source author: Unknown
+- Source year: 1874
+- License: public-domain

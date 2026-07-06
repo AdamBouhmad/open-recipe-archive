@@ -1,0 +1,15 @@
+{
+  "slug": "cuisine-francaise",
+  "name": "La Cuisine Française",
+  "description": "French cookery from the great tradition: La Cuisinière bourgeoise (1801) and Le Cuisinier impérial (1806).",
+  "culture": "france",
+  "recipe_count": 1559,
+  "source_years": [
+    "1801",
+    "1806"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

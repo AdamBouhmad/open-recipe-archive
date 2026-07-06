@@ -1,0 +1,35 @@
+---
+title: "Timbale Batter"
+slug: "timbale-batter"
+collection: "canadian-kitchen"
+collection_name: "The Canadian Kitchen"
+culture: "canada"
+date: "1914-01-01"
+author: "Grace E. Denison"
+source_title: "The Canadian Family Cook Book"
+source_url: "https://archive.org/details/canadianfamilyco00deni_0"
+source_year: "1914"
+license: "public-domain"
+tags: ["canada", "canadian-kitchen"]
+---
+
+## Ingredients
+
+- 1 cup flour, measured after sifting
+- 1/2 cup of milk
+- 1 egg
+- 1/2 teaspoonful salt
+
+## Directions
+
+1. Add salt to flour, stir in milk by degrees, and egg beaten light, yolk and white together; strain and fry on timbale iron.
+2. Fill with creamed lobsters, sweet breads, chicken, salmon, or other mixture.
+
+## Provenance
+
+- Collection: The Canadian Kitchen
+- Culture: canada
+- Source: [The Canadian Family Cook Book](https://archive.org/details/canadianfamilyco00deni_0)
+- Source author: Grace E. Denison
+- Source year: 1914
+- License: public-domain

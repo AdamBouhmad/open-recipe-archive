@@ -1,0 +1,15 @@
+{
+  "slug": "hollandse-keuken",
+  "name": "De Hollandse Keuken",
+  "description": "Dutch home cooking from Betje de goedkoope keukenmeid (1895) and the Amsterdam Huishoudschool cookbook (1910).",
+  "culture": "netherlands",
+  "recipe_count": 1705,
+  "source_years": [
+    "1895",
+    "1910"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

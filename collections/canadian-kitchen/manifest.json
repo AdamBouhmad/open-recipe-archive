@@ -1,0 +1,15 @@
+{
+  "slug": "canadian-kitchen",
+  "name": "The Canadian Kitchen",
+  "description": "Canadian home cooking from farm and family cookbooks, 1911-1915.",
+  "culture": "canada",
+  "recipe_count": 3201,
+  "source_years": [
+    "1911",
+    "1914"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "ottoman-turkish",
+  "name": "The Ottoman Turkish Kitchen",
+  "description": "Turabi Efendi's Turkish Cookery Book (1864), Ottoman recipes in English.",
+  "culture": "turkey",
+  "recipe_count": 442,
+  "source_years": [
+    "1864"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

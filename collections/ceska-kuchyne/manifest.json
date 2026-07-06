@@ -1,0 +1,16 @@
+{
+  "slug": "ceska-kuchyne",
+  "name": "Česká Kuchyně",
+  "description": "Czech cookery from Česká kuchařka (1883) and Czech-American kuchařky, 1896-1904.",
+  "culture": "czechia",
+  "recipe_count": 3076,
+  "source_years": [
+    "1883",
+    "1896",
+    "1904"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "wiener-kueche",
+  "name": "Die Wiener Küche",
+  "description": "Viennese cookery from Wiener Kochbücher, 1825-1914.",
+  "culture": "austria",
+  "recipe_count": 3072,
+  "source_years": [
+    "1825",
+    "1883",
+    "1914"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

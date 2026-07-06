@@ -1,0 +1,462 @@
+[
+  {
+    "slug": "cozinha-brasileira",
+    "name": "A Cozinha Brasileira",
+    "description": "O Cozinheiro Nacional (c. 1874) — the classic collection of Brazilian and European recipes.",
+    "culture": "brazil",
+    "recipe_count": 1792,
+    "source_years": [
+      "1874"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cozinha-portuguesa",
+    "name": "A Cozinha Portuguesa",
+    "description": "Portuguese cookery from Cozinheiro moderno (1785) and Arte de cozinha (1834).",
+    "culture": "portugal",
+    "recipe_count": 1152,
+    "source_years": [
+      "1785",
+      "1834"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "magyar-konyha",
+    "name": "A Magyar Konyha",
+    "description": "Hungarian cookery from the Képes budapesti szakácskönyv (1901).",
+    "culture": "hungary",
+    "recipe_count": 1240,
+    "source_years": [
+      "1901"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "hollandse-keuken",
+    "name": "De Hollandse Keuken",
+    "description": "Dutch home cooking from Betje de goedkoope keukenmeid (1895) and the Amsterdam Huishoudschool cookbook (1910).",
+    "culture": "netherlands",
+    "recipe_count": 1705,
+    "source_years": [
+      "1895",
+      "1910"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "danske-kokken",
+    "name": "Det Danske Køkken",
+    "description": "Danish cookery from Frøken Jensen (1921) and illustrated household cookbooks, 1884-1899.",
+    "culture": "denmark",
+    "recipe_count": 2613,
+    "source_years": [
+      "1884",
+      "1899",
+      "1921"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "norske-kjokken",
+    "name": "Det Norske Kjøkken",
+    "description": "Skandinavisk-amerikansk kogebog (1884) — Dano-Norwegian immigrant cooking, shared Scandinavian heritage labeled honestly.",
+    "culture": "norway",
+    "recipe_count": 322,
+    "source_years": [
+      "1884"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "german-kitchen",
+    "name": "Die Deutsche Küche",
+    "description": "German home cooking from Volks-Kochbuch (Hedwig Heyl) and the Süddeutsches Kochbuch.",
+    "culture": "germany",
+    "recipe_count": 1134,
+    "source_years": [
+      "1858",
+      "1905"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "wiener-kueche",
+    "name": "Die Wiener Küche",
+    "description": "Viennese cookery from Wiener Kochbücher, 1825-1914.",
+    "culture": "austria",
+    "recipe_count": 3072,
+    "source_years": [
+      "1825",
+      "1883",
+      "1914"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "kuchnia-polska",
+    "name": "Kuchnia Polska",
+    "description": "Polish cooking from Kuchnia polsko-amerykańska (1917).",
+    "culture": "poland",
+    "recipe_count": 990,
+    "source_years": [
+      "1917"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cocina-argentina",
+    "name": "La Cocina Argentina",
+    "description": "Juana Manuela Gorriti's Cocina Ecléctica (1890) — recipes gathered from women across Argentina and South America.",
+    "culture": "argentina",
+    "recipe_count": 251,
+    "source_years": [
+      "1890"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cocina-chilena",
+    "name": "La Cocina Chilena",
+    "description": "Novísimo manual del cocinero práctico chileno (1896).",
+    "culture": "chile",
+    "recipe_count": 689,
+    "source_years": [
+      "1896"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cocina-espanola",
+    "name": "La Cocina Española",
+    "description": "Spanish cookery from El Practicón (1894) and La mesa moderna (1888).",
+    "culture": "spain",
+    "recipe_count": 928,
+    "source_years": [
+      "1888",
+      "1894"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cocina-guatemalteca",
+    "name": "La Cocina Guatemalteca",
+    "description": "Consejos prácticos sobre cocina al estilo del país (1922).",
+    "culture": "guatemala",
+    "recipe_count": 1111,
+    "source_years": [
+      "1922"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cocina-mexicana",
+    "name": "La Cocina Mexicana",
+    "description": "Mexican cookery from the Diccionario de cocina (1845) and La cocinera poblana (1890).",
+    "culture": "mexico",
+    "recipe_count": 6476,
+    "source_years": [
+      "1845",
+      "1890"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cucina-italiana",
+    "name": "La Cucina Italiana",
+    "description": "Pellegrino Artusi's La scienza in cucina e l'arte di mangiar bene (1891) — the book that unified Italian cooking.",
+    "culture": "italy",
+    "recipe_count": 829,
+    "source_years": [
+      "1891"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "cuisine-francaise",
+    "name": "La Cuisine Française",
+    "description": "French cookery from the great tradition: La Cuisinière bourgeoise (1801) and Le Cuisinier impérial (1806).",
+    "culture": "france",
+    "recipe_count": 1559,
+    "source_years": [
+      "1801",
+      "1806"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "louisiana-creole",
+    "name": "Louisiana Creole Kitchen",
+    "description": "New Orleans Creole cooking from Lafcadio Hearn's La Cuisine Creole and The Creole Cookery Book (both 1885).",
+    "culture": "us-louisiana",
+    "recipe_count": 3258,
+    "source_years": [
+      "1885",
+      "1910"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "suomen-keittio",
+    "name": "Suomen Keittiö",
+    "description": "Finnish cooking from Finnish-American keittokirjat, 1914-1928.",
+    "culture": "finland",
+    "recipe_count": 2109,
+    "source_years": [
+      "1914",
+      "1928"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "svenska-koket",
+    "name": "Svenska Köket",
+    "description": "Swedish home cooking from Hemmets kokbok and Iduns kokbok (both 1911).",
+    "culture": "sweden",
+    "recipe_count": 4304,
+    "source_years": [
+      "1911"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "australian-table",
+    "name": "The Australian Table",
+    "description": "Australian cookery 1864-1930, from the goldfields era to Federation home cooking.",
+    "culture": "australia",
+    "recipe_count": 1010,
+    "source_years": [
+      "1864",
+      "1893"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "canadian-kitchen",
+    "name": "The Canadian Kitchen",
+    "description": "Canadian home cooking from farm and family cookbooks, 1911-1915.",
+    "culture": "canada",
+    "recipe_count": 3201,
+    "source_years": [
+      "1911",
+      "1914"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "chinese-kitchen",
+    "name": "The Chinese Kitchen",
+    "description": "Early Chinese-American cookbooks: Shiu Wong Chan (1917) and Jessie Louise Nolton (1911).",
+    "culture": "china",
+    "recipe_count": 181,
+    "source_years": [
+      "1911",
+      "1917"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "filipino-kitchen",
+    "name": "The Filipino Kitchen",
+    "description": "The Manila Cook Book (1919), American-era Manila home cooking.",
+    "culture": "philippines",
+    "recipe_count": 511,
+    "source_years": [
+      "1919"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "indian-kitchen",
+    "name": "The Indian Kitchen",
+    "description": "Recipes from British-India cookbooks, 1880-1900 — a corpus shared across the subcontinent (India, Pakistan, Bangladesh, Sri Lanka).",
+    "culture": "india",
+    "recipe_count": 1359,
+    "source_years": [
+      "1880",
+      "1885",
+      "1900"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "japanese-kitchen",
+    "name": "The Japanese Kitchen",
+    "description": "The Chinese-Japanese Cook Book (1914) — one of the first Japanese cookbooks in English. Shared Chinese-Japanese heritage, labeled honestly.",
+    "culture": "japan",
+    "recipe_count": 109,
+    "source_years": [
+      "1914"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "jewish-kitchen",
+    "name": "The Jewish Kitchen",
+    "description": "European Jewish cookery from The Jewish Manual (1846) to the International Jewish Cook Book (1918).",
+    "culture": "jewish-diaspora",
+    "recipe_count": 2382,
+    "source_years": [
+      "1846",
+      "1874",
+      "1918"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "ottoman-turkish",
+    "name": "The Ottoman Turkish Kitchen",
+    "description": "Turabi Efendi's Turkish Cookery Book (1864), Ottoman recipes in English.",
+    "culture": "turkey",
+    "recipe_count": 442,
+    "source_years": [
+      "1864"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "victorian-britain",
+    "name": "The Victorian British Kitchen",
+    "description": "Mrs Beeton's Book of Household Management (1861) — the defining cookbook of Victorian Britain.",
+    "culture": "united-kingdom",
+    "recipe_count": 1382,
+    "source_years": [
+      "1861"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "west-indies",
+    "name": "The West Indies Kitchen",
+    "description": "The Nabob's Cookery Book (1900) — East and West Indian recipes, shared colonial corpus labeled honestly.",
+    "culture": "west-indies",
+    "recipe_count": 51,
+    "source_years": [
+      "1900"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "ye-old-american",
+    "name": "Ye Old American Recipe Book",
+    "description": "Recipes from American cookery books published 1796-1896, all public domain.",
+    "culture": "american-historical",
+    "recipe_count": 5605,
+    "source_years": [
+      "1796",
+      "1824",
+      "1851",
+      "1871",
+      "1887",
+      "1896"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  },
+  {
+    "slug": "ceska-kuchyne",
+    "name": "Česká Kuchyně",
+    "description": "Czech cookery from Česká kuchařka (1883) and Czech-American kuchařky, 1896-1904.",
+    "culture": "czechia",
+    "recipe_count": 3076,
+    "source_years": [
+      "1883",
+      "1896",
+      "1904"
+    ],
+    "formats": {
+      "jsonl": "recipes.jsonl",
+      "markdown_dir": "recipes/"
+    }
+  }
+]

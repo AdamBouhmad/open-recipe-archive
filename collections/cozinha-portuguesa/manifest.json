@@ -1,0 +1,15 @@
+{
+  "slug": "cozinha-portuguesa",
+  "name": "A Cozinha Portuguesa",
+  "description": "Portuguese cookery from Cozinheiro moderno (1785) and Arte de cozinha (1834).",
+  "culture": "portugal",
+  "recipe_count": 1152,
+  "source_years": [
+    "1785",
+    "1834"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

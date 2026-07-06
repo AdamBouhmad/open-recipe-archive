@@ -1,0 +1,34 @@
+---
+title: "Dřišťalková Paštička (Barberry Paste)"
+slug: "d-i-alkov-pa-ti-ka-barberry-paste"
+collection: "ceska-kuchyne"
+collection_name: "Česká Kuchyně"
+culture: "czechia"
+date: "1883-01-01"
+author: "Marie Dumková"
+source_title: "Česká kuchařka"
+source_url: "https://archive.org/details/ceska_kucharka-dumkova"
+source_year: "1883"
+license: "public-domain"
+tags: ["czechia", "ceska-kuchyne"]
+---
+
+## Ingredients
+
+- sugar
+- barberry juice
+- water
+
+## Directions
+
+1. Cook plenty of sugar with barberry juice, to which a little water has been added, until everything is completely thick
+2. Proceed as with the previous pastes
+
+## Provenance
+
+- Collection: Česká Kuchyně
+- Culture: czechia
+- Source: [Česká kuchařka](https://archive.org/details/ceska_kucharka-dumkova)
+- Source author: Marie Dumková
+- Source year: 1883
+- License: public-domain

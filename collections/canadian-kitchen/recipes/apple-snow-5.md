@@ -1,0 +1,46 @@
+---
+title: "Apple Snow"
+slug: "apple-snow-5"
+collection: "canadian-kitchen"
+collection_name: "The Canadian Kitchen"
+culture: "canada"
+date: "1914-01-01"
+author: "Grace E. Denison"
+source_title: "The Canadian Family Cook Book"
+source_url: "https://archive.org/details/canadianfamilyco00deni_0"
+source_year: "1914"
+license: "public-domain"
+tags: ["canada", "canadian-kitchen"]
+---
+
+## Ingredients
+
+- Six or eight tart, juicy apples
+- A little water
+- Sugar to suit the taste
+- One pint of milk
+- Yolks of three eggs
+- Sugar to sweeten
+- Three heaping tablespoons of powdered sugar
+
+## Directions
+
+1. Pare, core and slice six or eight tart, juicy apples
+2. Stew them in a little water until soft enough to press through a colander
+3. Sweeten to suit the taste
+4. Turn into a deep glass dish
+5. Let the apples get cold
+6. Cover with a soft custard made with a pint of milk, the yolks of three eggs and sugar to sweeten
+7. Flavor with lemon or orange
+8. When cold pour over the apples
+9. Whip the whites to a stiff froth with three heaping tablespoons of powdered sugar
+10. Heap lightly over the custard
+
+## Provenance
+
+- Collection: The Canadian Kitchen
+- Culture: canada
+- Source: [The Canadian Family Cook Book](https://archive.org/details/canadianfamilyco00deni_0)
+- Source author: Grace E. Denison
+- Source year: 1914
+- License: public-domain

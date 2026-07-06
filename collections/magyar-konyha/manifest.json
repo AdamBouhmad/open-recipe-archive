@@ -1,0 +1,14 @@
+{
+  "slug": "magyar-konyha",
+  "name": "A Magyar Konyha",
+  "description": "Hungarian cookery from the Képes budapesti szakácskönyv (1901).",
+  "culture": "hungary",
+  "recipe_count": 1240,
+  "source_years": [
+    "1901"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

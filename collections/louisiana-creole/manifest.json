@@ -1,0 +1,15 @@
+{
+  "slug": "louisiana-creole",
+  "name": "Louisiana Creole Kitchen",
+  "description": "New Orleans Creole cooking from Lafcadio Hearn's La Cuisine Creole and The Creole Cookery Book (both 1885).",
+  "culture": "us-louisiana",
+  "recipe_count": 3258,
+  "source_years": [
+    "1885",
+    "1910"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

@@ -1,0 +1,35 @@
+---
+title: "Stewed Cranberries"
+slug: "stewed-cranberries-2"
+collection: "jewish-kitchen"
+collection_name: "The Jewish Kitchen"
+culture: "jewish-diaspora"
+date: "1918-01-01"
+author: "Florence Kreisler Greenbaum"
+source_title: "The International Jewish Cook Book"
+source_url: "https://archive.org/details/cu31924003580952"
+source_year: "1918"
+license: "public-domain"
+tags: ["jewish-diaspora", "jewish-kitchen"]
+---
+
+## Ingredients
+
+- one and one-half cups of sugar
+- one cup of water
+- three cups of cranberries
+
+## Directions
+
+1. Boil together one and one-half cups of sugar and one cup of water for seven minutes
+2. Add three cups of cranberries, well washed and picked
+3. Cook until the berries burst
+
+## Provenance
+
+- Collection: The Jewish Kitchen
+- Culture: jewish-diaspora
+- Source: [The International Jewish Cook Book](https://archive.org/details/cu31924003580952)
+- Source author: Florence Kreisler Greenbaum
+- Source year: 1918
+- License: public-domain

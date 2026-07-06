@@ -1,0 +1,36 @@
+---
+title: "Whips"
+slug: "whips"
+collection: "louisiana-creole"
+collection_name: "Louisiana Creole Kitchen"
+culture: "us-louisiana"
+date: "1885-01-01"
+author: "Christian Woman's Exchange"
+source_title: "The Creole Cookery Book"
+source_url: "https://archive.org/details/creolecookerybo00unkngoog"
+source_year: "1885"
+license: "public-domain"
+tags: ["us-louisiana", "louisiana-creole"]
+---
+
+## Ingredients
+
+- 1 pint cream
+- 3 gills white wine
+- juice and peel of 1 lemon
+- whites of 6 or 8 eggs
+- sugar
+
+## Directions
+
+1. Combine 1 pint of cream, 3 gills of white wine, the juice and peel of 1 lemon, the whites of 6 or 8 eggs, and sugar to the taste
+2. Whisk it well, and put in on a sieve to drain
+
+## Provenance
+
+- Collection: Louisiana Creole Kitchen
+- Culture: us-louisiana
+- Source: [The Creole Cookery Book](https://archive.org/details/creolecookerybo00unkngoog)
+- Source author: Christian Woman's Exchange
+- Source year: 1885
+- License: public-domain

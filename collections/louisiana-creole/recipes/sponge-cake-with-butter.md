@@ -1,0 +1,38 @@
+---
+title: "Sponge Cake With Butter"
+slug: "sponge-cake-with-butter"
+collection: "louisiana-creole"
+collection_name: "Louisiana Creole Kitchen"
+culture: "us-louisiana"
+date: "1885-01-01"
+author: "Christian Woman's Exchange"
+source_title: "The Creole Cookery Book"
+source_url: "https://archive.org/details/creolecookerybo00unkngoog"
+source_year: "1885"
+license: "public-domain"
+tags: ["us-louisiana", "louisiana-creole"]
+---
+
+## Ingredients
+
+- the weight of 14 eggs in sugar
+- the weight of 8 eggs in flour
+- the weight of 6 or 7 eggs in butter
+- the rind and juice of a lemon
+
+## Directions
+
+1. Cream the butter and flour together
+2. Beat the eggs and sugar light
+3. Add the rind and juice of lemon
+4. Combine all ingredients
+5. Bake in cups
+
+## Provenance
+
+- Collection: Louisiana Creole Kitchen
+- Culture: us-louisiana
+- Source: [The Creole Cookery Book](https://archive.org/details/creolecookerybo00unkngoog)
+- Source author: Christian Woman's Exchange
+- Source year: 1885
+- License: public-domain

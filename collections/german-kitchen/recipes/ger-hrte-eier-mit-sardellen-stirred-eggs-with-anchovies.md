@@ -1,0 +1,33 @@
+---
+title: "Gerührte Eier mit Sardellen (Stirred Eggs with Anchovies)"
+slug: "ger-hrte-eier-mit-sardellen-stirred-eggs-with-anchovies"
+collection: "german-kitchen"
+collection_name: "Die Deutsche Küche"
+culture: "germany"
+date: "1858-01-01"
+author: "Viktorine Schiller"
+source_title: "Neuestes Süddeutsches Kochbuch"
+source_url: "https://www.gutenberg.org/ebooks/52879"
+source_year: "1858"
+license: "public-domain"
+tags: ["germany", "german-kitchen"]
+---
+
+## Ingredients
+
+- 8 eggs
+- 4 loth anchovies
+- fresh water
+
+## Directions
+
+1. To 8 eggs take 4 loth anchovies, wash them, remove the bones, place them for a quarter hour in fresh water
+
+## Provenance
+
+- Collection: Die Deutsche Küche
+- Culture: germany
+- Source: [Neuestes Süddeutsches Kochbuch](https://www.gutenberg.org/ebooks/52879)
+- Source author: Viktorine Schiller
+- Source year: 1858
+- License: public-domain

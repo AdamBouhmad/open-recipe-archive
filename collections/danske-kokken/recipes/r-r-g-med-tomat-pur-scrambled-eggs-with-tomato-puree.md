@@ -1,0 +1,32 @@
+---
+title: "Røræg med Tomat-Puré (Scrambled Eggs with Tomato Puree)"
+slug: "r-r-g-med-tomat-pur-scrambled-eggs-with-tomato-puree"
+collection: "danske-kokken"
+collection_name: "Det Danske Køkken"
+culture: "denmark"
+date: "1921-01-01"
+author: "Kristine Marie Jensen"
+source_title: "Frøken Jensens kogebog"
+source_url: "https://archive.org/details/frkenjensensko00jens"
+source_year: "1921"
+license: "public-domain"
+tags: ["denmark", "danske-kokken"]
+---
+
+## Ingredients
+
+- Beaten eggs
+- Tomato puree
+
+## Directions
+
+1. For each egg, use 1 tablespoon of tomato puree instead of milk. The scrambled eggs are served with open-faced sandwiches. Garnish with watercress.
+
+## Provenance
+
+- Collection: Det Danske Køkken
+- Culture: denmark
+- Source: [Frøken Jensens kogebog](https://archive.org/details/frkenjensensko00jens)
+- Source author: Kristine Marie Jensen
+- Source year: 1921
+- License: public-domain

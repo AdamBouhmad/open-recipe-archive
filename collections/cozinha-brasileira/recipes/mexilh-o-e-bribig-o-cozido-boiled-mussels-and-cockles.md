@@ -1,0 +1,42 @@
+---
+title: "Mexilhão e Bribigão Cozido (Boiled Mussels and Cockles)"
+slug: "mexilh-o-e-bribig-o-cozido-boiled-mussels-and-cockles"
+collection: "cozinha-brasileira"
+collection_name: "A Cozinha Brasileira"
+culture: "brazil"
+date: "1874-01-01"
+author: ""
+source_title: "Cozinheiro Nacional"
+source_url: "https://archive.org/details/cozinheiro-nacional"
+source_year: "1874"
+license: "public-domain"
+tags: ["brazil", "cozinha-brasileira"]
+---
+
+## Ingredients
+
+- mushrooms
+- bread crumbs
+- fat
+- water
+- parsley
+- onion leaves
+- salt
+- pepper
+- mussel meat
+
+## Directions
+
+1. Sauté a portion of mushrooms and a handful of bread crumbs in one tablespoon of fat
+2. Add one cup of water, a little parsley, onion leaves, salt and pepper
+3. Boil and add the mussel meat
+4. Once heated, remove from fire and serve
+
+## Provenance
+
+- Collection: A Cozinha Brasileira
+- Culture: brazil
+- Source: [Cozinheiro Nacional](https://archive.org/details/cozinheiro-nacional)
+- Source author: Unknown
+- Source year: 1874
+- License: public-domain

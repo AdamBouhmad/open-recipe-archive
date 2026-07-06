@@ -1,0 +1,40 @@
+---
+title: "Skopová s Kapary (Mutton with Capers)"
+slug: "skopov-s-kapary-mutton-with-capers"
+collection: "ceska-kuchyne"
+collection_name: "Česká Kuchyně"
+culture: "czechia"
+date: "1883-01-01"
+author: "Marie Dumková"
+source_title: "Česká kuchařka"
+source_url: "https://archive.org/details/ceska_kucharka-dumkova"
+source_year: "1883"
+license: "public-domain"
+tags: ["czechia", "ceska-kuchyne"]
+---
+
+## Ingredients
+
+- mutton roast flattened and cleaned
+- salt
+- butter
+- hot water
+- chopped onion
+- 2 tablespoons capers
+- small roasted potatoes
+
+## Directions
+
+1. Salt dried roast and brown it on both sides in butter
+2. Pour 2 cups hot water into the sauce
+3. Add chopped onion with 2 tablespoons capers to the sauce and simmer briefly
+4. Serve roast with small roasted potatoes around it
+
+## Provenance
+
+- Collection: Česká Kuchyně
+- Culture: czechia
+- Source: [Česká kuchařka](https://archive.org/details/ceska_kucharka-dumkova)
+- Source author: Marie Dumková
+- Source year: 1883
+- License: public-domain

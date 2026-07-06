@@ -1,0 +1,36 @@
+---
+title: "Buttermilk Breakfast Oakes"
+slug: "buttermilk-breakfast-oakes"
+collection: "australian-table"
+collection_name: "The Australian Table"
+culture: "australia"
+date: "1864-01-01"
+author: "Edward Abbott"
+source_title: "The English and Australian Cookery Book"
+source_url: "https://archive.org/details/b21505524"
+source_year: "1864"
+license: "public-domain"
+tags: ["australia", "australian-table"]
+---
+
+## Ingredients
+
+- half a pint of buttermilk
+- flour
+- a tea-spoon half full of bi-carbonate of soda
+
+## Directions
+
+1. Take half a pint of buttermilk, add to it sufficient flour to make it into dough
+2. Mix in a tea-spoon half full of bi-carbonate of soda well
+3. Put them in the oven or on the girdle as soon as the soda and buttermilk have come in contact
+4. Bake quickly, and butter hot
+
+## Provenance
+
+- Collection: The Australian Table
+- Culture: australia
+- Source: [The English and Australian Cookery Book](https://archive.org/details/b21505524)
+- Source author: Edward Abbott
+- Source year: 1864
+- License: public-domain

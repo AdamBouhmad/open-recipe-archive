@@ -1,0 +1,33 @@
+---
+title: "Skandinavischen Gesundheitsmilch (Scandinavian Health Milk / Taette)"
+slug: "skandinavischen-gesundheitsmilch-scandinavian-health-milk-taette"
+collection: "wiener-kueche"
+collection_name: "Die Wiener Küche"
+culture: "austria"
+date: "1914-01-01"
+author: ""
+source_title: "Neues Wiener Menu- und Kochbuch"
+source_url: "https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914"
+source_year: "1914"
+license: "public-domain"
+tags: ["austria", "wiener-kueche"]
+---
+
+## Ingredients
+
+- Fresh milk
+- Contents of one bottle of 'Vindobona' Taette ferment
+
+## Directions
+
+1. Proceed similarly to the preparation of kefir, using 'Taette' ferment instead of 'Kefir' ferment
+2. Let the bottles remain at a temperature of approximately 25°C for 12 to 14 hours instead of 8 to 10 hours
+
+## Provenance
+
+- Collection: Die Wiener Küche
+- Culture: austria
+- Source: [Neues Wiener Menu- und Kochbuch](https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914)
+- Source author: Unknown
+- Source year: 1914
+- License: public-domain

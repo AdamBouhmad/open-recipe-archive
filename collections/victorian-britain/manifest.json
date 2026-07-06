@@ -1,0 +1,14 @@
+{
+  "slug": "victorian-britain",
+  "name": "The Victorian British Kitchen",
+  "description": "Mrs Beeton's Book of Household Management (1861) — the defining cookbook of Victorian Britain.",
+  "culture": "united-kingdom",
+  "recipe_count": 1382,
+  "source_years": [
+    "1861"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}

@@ -1,0 +1,33 @@
+---
+title: "Duchess Potatoes"
+slug: "duchess-potatoes-2"
+collection: "louisiana-creole"
+collection_name: "Louisiana Creole Kitchen"
+culture: "us-louisiana"
+date: "1910-01-01"
+author: ""
+source_title: "The Picayune's Creole Cook Book"
+source_url: "https://archive.org/details/cu31924073878708"
+source_year: "1910"
+license: "public-domain"
+tags: ["us-louisiana", "louisiana-creole"]
+---
+
+## Ingredients
+
+- one dozen boiled potatoes
+- the yolk of 1 egg
+
+## Directions
+
+1. Take one dozen boiled potatoes, mash them, and form into small square cakes.
+2. Criss-cross them gracefully with a knife, brush with the yolk of an egg beaten in water or milk, and set in the oven to bake to a delicate brown.
+
+## Provenance
+
+- Collection: Louisiana Creole Kitchen
+- Culture: us-louisiana
+- Source: [The Picayune's Creole Cook Book](https://archive.org/details/cu31924073878708)
+- Source author: Unknown
+- Source year: 1910
+- License: public-domain

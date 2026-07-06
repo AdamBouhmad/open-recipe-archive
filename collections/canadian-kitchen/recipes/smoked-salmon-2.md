@@ -1,0 +1,40 @@
+---
+title: "Smoked Salmon"
+slug: "smoked-salmon-2"
+collection: "canadian-kitchen"
+collection_name: "The Canadian Kitchen"
+culture: "canada"
+date: "1914-01-01"
+author: "Grace E. Denison"
+source_title: "The Canadian Family Cook Book"
+source_url: "https://archive.org/details/canadianfamilyco00deni_0"
+source_year: "1914"
+license: "public-domain"
+tags: ["canada", "canadian-kitchen"]
+---
+
+## Ingredients
+
+- Smoked salmon
+- Olive oil
+- Vinegar
+- Sliced lemon
+
+## Directions
+
+1. Soak over night, changing the water three times for warmer
+2. In the morning rub hard to get rid of the smoke and rust
+3. Leave in ice-water half an hour
+4. Wipe dry
+5. Rub with olive oil and vinegar
+6. Broil over a clean fire
+7. Pass sliced lemon with it
+
+## Provenance
+
+- Collection: The Canadian Kitchen
+- Culture: canada
+- Source: [The Canadian Family Cook Book](https://archive.org/details/canadianfamilyco00deni_0)
+- Source author: Grace E. Denison
+- Source year: 1914
+- License: public-domain

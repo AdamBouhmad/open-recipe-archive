@@ -1,0 +1,14 @@
+{
+  "slug": "cocina-guatemalteca",
+  "name": "La Cocina Guatemalteca",
+  "description": "Consejos prácticos sobre cocina al estilo del país (1922).",
+  "culture": "guatemala",
+  "recipe_count": 1111,
+  "source_years": [
+    "1922"
+  ],
+  "formats": {
+    "jsonl": "recipes.jsonl",
+    "markdown_dir": "recipes/"
+  }
+}
