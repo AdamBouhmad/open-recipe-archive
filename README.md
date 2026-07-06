@@ -1,6 +1,6 @@
 # Open Recipe Archive
 
-Building one of the largest open historical recipe corpora on GitHub.
+Building the largest open historical recipe corpora on GitHub 
 
 ## What This Repo Is
 This repo contains 54,000+ historical public-domain recipes across more than thirty country shelves, plus regional and diaspora collections. It is a public export of a historical recipe corpus built from public-domain cookbooks and other copyright-safe sources.
